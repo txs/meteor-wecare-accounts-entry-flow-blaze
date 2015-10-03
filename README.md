@@ -7,7 +7,7 @@ A fix to use Blaze layout instead of flow layout.
 Install:
 
 ```
-meteor add dovrosenberg:accounts-entry-flow
+meteor add wecare:accounts-entry-flow-blaze
 ```
 
 See the [original](https://github.com/Differential/accounts-entry) package for more details on usage and examples.  The differences are described here:
